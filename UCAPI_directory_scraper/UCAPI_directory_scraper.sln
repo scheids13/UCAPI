@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UCAPI_directory_scraper", "UCAPI_directory_scraper\UCAPI_directory_scraper.csproj", "{E7AB0041-A9D0-4729-BD65-79A4FCFB55DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7AB0041-A9D0-4729-BD65-79A4FCFB55DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7AB0041-A9D0-4729-BD65-79A4FCFB55DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7AB0041-A9D0-4729-BD65-79A4FCFB55DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7AB0041-A9D0-4729-BD65-79A4FCFB55DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
