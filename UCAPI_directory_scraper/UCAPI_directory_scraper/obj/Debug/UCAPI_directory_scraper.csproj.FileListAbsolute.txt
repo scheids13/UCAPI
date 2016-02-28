@@ -1,1 +1,14 @@
 c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\UCAPI_directory_scraper.exe.config
+c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper\UCAPI_directory_scraper\obj\Debug\UCAPI_directory_scraper.csprojResolveAssemblyReference.cache
+c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper\UCAPI_directory_scraper\obj\Debug\UCAPI_directory_scraper.Form1.resources
+c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper\UCAPI_directory_scraper\obj\Debug\UCAPI_directory_scraper.Properties.Resources.resources
+c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper\UCAPI_directory_scraper\obj\Debug\UCAPI_directory_scraper.csproj.GenerateResource.Cache
+c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\UCAPI_directory_scraper.exe
+c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\UCAPI_directory_scraper.pdb
+c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\MongoDB.Bson.dll
+c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\MongoDB.Driver.dll
+c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\MongoDB.Bson.xml
+c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\MongoDB.Driver.xml
+c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper\UCAPI_directory_scraper\obj\Debug\UCAPI_directory_scraper.exe
+c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper\UCAPI_directory_scraper\obj\Debug\UCAPI_directory_scraper.pdb
