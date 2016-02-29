@@ -12,3 +12,6 @@ c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper
 c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\MongoDB.Driver.xml
 c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper\UCAPI_directory_scraper\obj\Debug\UCAPI_directory_scraper.exe
 c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper\UCAPI_directory_scraper\obj\Debug\UCAPI_directory_scraper.pdb
+C:\Users\Scheidler\Documents\GitHub\UCAPI\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\UCAPI_directory_scraper.exe.config
+C:\Users\Scheidler\Documents\GitHub\UCAPI\UCAPI_directory_scraper\UCAPI_directory_scraper\obj\Debug\UCAPI_directory_scraper.exe
+C:\Users\Scheidler\Documents\GitHub\UCAPI\UCAPI_directory_scraper\UCAPI_directory_scraper\obj\Debug\UCAPI_directory_scraper.pdb
