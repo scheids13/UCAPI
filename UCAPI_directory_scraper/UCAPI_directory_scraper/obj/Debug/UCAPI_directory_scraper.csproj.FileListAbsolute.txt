@@ -15,3 +15,14 @@ c:\users\scheidler\documents\visual studio 2012\Projects\UCAPI_directory_scraper
 C:\Users\Scheidler\Documents\GitHub\UCAPI\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\UCAPI_directory_scraper.exe.config
 C:\Users\Scheidler\Documents\GitHub\UCAPI\UCAPI_directory_scraper\UCAPI_directory_scraper\obj\Debug\UCAPI_directory_scraper.exe
 C:\Users\Scheidler\Documents\GitHub\UCAPI\UCAPI_directory_scraper\UCAPI_directory_scraper\obj\Debug\UCAPI_directory_scraper.pdb
+C:\Users\Scheidler\Documents\GitHub\UCAPI\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\UCAPI_directory_scraper.exe
+C:\Users\Scheidler\Documents\GitHub\UCAPI\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\UCAPI_directory_scraper.pdb
+C:\Users\Scheidler\Documents\GitHub\UCAPI\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\MongoDB.Bson.dll
+C:\Users\Scheidler\Documents\GitHub\UCAPI\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Scheidler\Documents\GitHub\UCAPI\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\MongoDB.Driver.dll
+C:\Users\Scheidler\Documents\GitHub\UCAPI\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\MongoDB.Bson.xml
+C:\Users\Scheidler\Documents\GitHub\UCAPI\UCAPI_directory_scraper\UCAPI_directory_scraper\bin\Debug\MongoDB.Driver.xml
+C:\Users\Scheidler\Documents\GitHub\UCAPI\UCAPI_directory_scraper\UCAPI_directory_scraper\obj\Debug\UCAPI_directory_scraper.csprojResolveAssemblyReference.cache
+C:\Users\Scheidler\Documents\GitHub\UCAPI\UCAPI_directory_scraper\UCAPI_directory_scraper\obj\Debug\UCAPI_directory_scraper.Form1.resources
+C:\Users\Scheidler\Documents\GitHub\UCAPI\UCAPI_directory_scraper\UCAPI_directory_scraper\obj\Debug\UCAPI_directory_scraper.Properties.Resources.resources
+C:\Users\Scheidler\Documents\GitHub\UCAPI\UCAPI_directory_scraper\UCAPI_directory_scraper\obj\Debug\UCAPI_directory_scraper.csproj.GenerateResource.Cache
